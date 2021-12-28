@@ -1,0 +1,6 @@
+[Database]
+host: localhost
+port: 5432
+user: vizav
+password: q1a2z3qaz123
+database: vizav
